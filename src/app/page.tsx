@@ -1,5 +1,4 @@
 import { Triangle } from "lucide-react";
-import { DropDownMenuDemo } from "./components/DropDownMenu";
 import DialogComponentDemo from "./components/DialogComponentDemo";
 
 export default function Home() {
